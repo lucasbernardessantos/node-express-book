@@ -1,0 +1,23 @@
+{
+  "name": "express-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasbernardessantos/node-express-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasbernardessantos/node-express-book/issues"
+  },
+  "homepage": "https://github.com/lucasbernardessantos/node-express-book#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
